@@ -1,0 +1,2 @@
+2;Media/oranges.jpg;Oranges;Fruits & Vegetables;200;globalmjl;5.50$;Start your morning with some freshly pressed oranges! These seedless oranges from Florida are delicious and a must to your diet.;5.50$/EA;4
+10;Media/chicken.png;Chicken;Meat;50;Distrobec;12.50$;Free range, whole fed Chicken ready for grilling. Perfect for a hot summer night;0.65$/100g;4
